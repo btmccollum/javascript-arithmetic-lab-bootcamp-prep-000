@@ -12,6 +12,7 @@ function divide(a, b) {
 }
 var number = 10
 number++
+<<<<<<< HEAD
 function inc(n) {
   return (n + 1)
 }
@@ -24,3 +25,5 @@ function makeInt(n) {
 function preserveDecimal(n) {
   return parseFloat(n);
 }
+=======
+>>>>>>> 3c843d53bcfb5f2bda77eab23a23729a3ceea811
